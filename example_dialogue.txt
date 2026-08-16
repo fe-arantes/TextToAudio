@@ -1,0 +1,14 @@
+# Lines starting with # are comments and are not converted to audio.
+# Format: CHARACTER: line
+# Lines without "CHARACTER:" become narration (read by the "Narrator" voice).
+
+It was a busy Saturday afternoon at the shopping mall.
+Sarah: Hi! I'm looking for a jacket for the winter. Can you help me?
+Clerk: Of course! Are you thinking of something casual or more formal?
+Sarah: Something casual, but that I could also wear to work.
+Clerk: We have this navy blue one on sale. Would you like to try it on?
+Sarah: It fits perfectly! How much is it?
+Clerk: It's forty dollars with the discount.
+Sarah: Great, I'll take it. Can I pay by card?
+Clerk: Sure! I'll meet you at the register.
+Sarah left the store happy with her brand new jacket.
